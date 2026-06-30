@@ -2,7 +2,7 @@
 
 ## Grupo
 
-- João Roberto Nogueira
+- João Roberto Nogueira Menna Barreto
 - Daniel Ramos Maia
 - Thiago Silva Leite
 - Ramon Falcão de Souza Oliveira
