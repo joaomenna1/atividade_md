@@ -1,8 +1,16 @@
 # Problema 3 — Busca de Elemento Máximo em Array Unimodal
 
+## Grupo
+
+- João Roberto Nogueira
+- Daniel Ramos Maia
+- Thiago Silva Leite
+- Ramon Falcão de Souza Oliveira
+- Juan Victor Sequeira Santos
+
 **Módulo 2: Conjuntos Totalmente Ordenados & Busca**
 
-Disciplina: Matemática Discreta & Verificação Formal de Programas
+Disciplina: Matemática Discreta & Verificação Formal de Programas  
 Prof. Edjard Mota — Instituto de Computação / UFAM — 2026
 
 ---
